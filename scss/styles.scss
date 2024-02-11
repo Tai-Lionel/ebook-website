@@ -1,0 +1,11 @@
+.container {
+    max-width: 1152px;
+}
+
+.hero,
+.form {
+    background-image: url('/images/header-background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
